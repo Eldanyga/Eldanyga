@@ -23,5 +23,5 @@ _📫 How to reach me: Send an email to me--> eridaniga2003@gmail.com_
 
 
 ### What do u can asking me about ?
-Python, PHP, HTML, CSS3, JAVASCRIPT
+Python, PHP, HTML, CSS3, JAVASCRIPT, REACT.JS
 
